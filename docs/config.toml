@@ -1,4 +1,4 @@
-baseURL = "http://akanatr.github.io/thead"
+baseURL = "https://akanatr.github.io/thead"
 languageCode = "ja-jp"
 title = "Minimal"
 theme = "minimal"
