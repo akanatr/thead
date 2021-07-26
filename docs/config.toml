@@ -24,9 +24,14 @@ googleAnalytics = ""
 
 
 [[menu.main]]
-    url = "/post/index.html"
-    name = "Index"
+    url = "/installation/"
+    name = "Installation"
     weight = 2
+
+[[menu.main]]
+    url = "/usage/"
+    name = "Usage"
+    weight = 3
 
 
 
