@@ -12,3 +12,19 @@ func Example_help() {
 	// 	FILEs...                        カウント対象を指定する．
 	// 	DIRs...                         指定したディレクトリ内のファイルを入力ファイルとする．
 }
+
+func test_thead() {
+	goMain([]string{"thead", ".testdata/App.tsx"})
+	// Output:
+	// import React, { useState } from 'react';
+	// import {
+	// 	StyleSheet,
+	// 	Text,
+	// 	View,
+	// 	TextInput,
+	// 	Button
+	// } from 'react-native';
+
+	// interface IToDo {
+
+}

@@ -11,7 +11,7 @@ $ brew tap akanatr/thead
 $ brew install thead
 ```
 
-## Compiling Yourself
+## 💪Compiling Yourself
 ```sh
 $ git clone https://github.com/akanatr/thead.git
 $ cd thead
