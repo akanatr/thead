@@ -1,7 +1,5 @@
 ---
 title: "Installation"
-date: 2021-07-27T05:23:00+09:00
-draft: true
 ---
 
 # Install
@@ -17,5 +15,5 @@ $ brew install thead
 ```sh
 $ git clone https://github.com/akanatr/thead.git
 $ cd thead
-$ make
+$ make aaa
 ```
