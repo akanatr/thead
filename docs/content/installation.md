@@ -15,5 +15,5 @@ $ brew install thead
 ```sh
 $ git clone https://github.com/akanatr/thead.git
 $ cd thead
-$ make aaa
+$ make 
 ```
