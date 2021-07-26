@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://akanatr.github.io/thead/installation/</guid>
-      <description>Install 🍺Homebrew $ brew tap akanatr/thead $ brew install thead Compiling Yourself $ git clone https://github.com/akanatr/thead.git $ cd thead $ make </description>
+      <description>Install 🍺Homebrew $ brew tap akanatr/thead $ brew install thead Compiling Yourself $ git clone https://github.com/akanatr/thead.git $ cd thead $ make aaa </description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://akanatr.github.io/thead/usage/</guid>
-      <description>Usage thead [OPTIONS...] &amp;lt;FILEs...|DIRs...&amp;gt; OPTIONS: -l, --lines &amp;lt;LINES&amp;gt; 指定された行数を各ファイルごとに出力する． -q, --quiet 複数ファイルを出力する際の各ファイル名を表示しない． -h, --help このメッセージを出力する. ARGUMENTS FILEs... カウント対象を指定する． DIRs... 指定したディレクトリ内のファイルを入力ファイルとする． </description>
+      <description>Usage thead [OPTIONS...] &amp;lt;FILEs...|DIRs...&amp;gt; aaa OPTIONS: -l, --lines &amp;lt;LINES&amp;gt; 指定された行数を各ファイルごとに出力する． -q, --quiet 複数ファイルを出力する際の各ファイル名を表示しない． -h, --help このメッセージを出力する. ARGUMENTS FILEs... カウント対象を指定する． DIRs... 指定したディレクトリ内のファイルを入力ファイルとする． </description>
     </item>
     
   </channel>
