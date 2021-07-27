@@ -13,18 +13,18 @@ func Example_help() {
 	// 	DIRs...                         指定したディレクトリ内のファイルを入力ファイルとする．
 }
 
-func test_thead() {
-	goMain([]string{"thead", ".testdata/App.tsx"})
-	// Output:
-	// import React, { useState } from 'react';
-	// import {
-	// 	StyleSheet,
-	// 	Text,
-	// 	View,
-	// 	TextInput,
-	// 	Button
-	// } from 'react-native';
+// func test_thead() {
+// 	goMain([]string{"thead", ".testdata/App.tsx"})
+// 	// Output:
+// 	// import React, { useState } from 'react';
+// 	// import {
+// 	// 	StyleSheet,
+// 	// 	Text,
+// 	// 	View,
+// 	// 	TextInput,
+// 	// 	Button
+// 	// } from 'react-native';
 
-	// interface IToDo {
+// 	// interface IToDo {
 
-}
+// }
