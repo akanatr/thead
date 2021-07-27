@@ -30,6 +30,22 @@ headコマンドの機能拡張
     FILEs...                 カウント対象を指定する．
     DIRs...                  指定したディレクトリ内のファイルを入力ファイルとする．
 ```
+
+# Install
+
+## 🍺Homebrew
+
+```sh
+$ brew tap akanatr/thead
+$ brew install thead
+```
+
+## 💪Compiling Yourself
+```sh
+$ git clone https://github.com/akanatr/thead.git
+$ cd thead
+$ make 
+```
   
 ## icon
 <img src="./img/thead_icon.svg" width="100">  
